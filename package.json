@@ -1,9 +1,9 @@
 {
   "name": "roblox-whitelist-api",
   "version": "1.0.0",
-  "main": "server.js",          // ← change to whatever you pick
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js"   // ← or node index.js
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.19.2",
