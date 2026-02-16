@@ -116,4 +116,4 @@ function saveWhitelist() {
   }
 }
 
-client.login('');
+client.login(process.env.API_KEY);
