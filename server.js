@@ -116,4 +116,4 @@ function saveWhitelist() {
   }
 }
 
-client.login('MTQ2NTUwNjI4MzQ0NzkxMDYwNQ.G6b55M.LX3926PLnhr-cBwjzxh7BbcZPz75zWp4o1WXLQ');
+client.login('');
